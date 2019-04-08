@@ -1,0 +1,22 @@
+2019-04-06T00:55:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 381
+
+2019-04-06T00:58:45+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 246
+
+2019-04-06T01:42:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 381
+
+2019-04-06T01:43:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 123
+
+2019-04-06T02:04:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 246
+
+2019-04-06T02:04:43+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 48234880 bytes) in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 276
+
+2019-04-06T02:04:45+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 48235208 bytes) in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 276
+
+2019-04-06T03:35:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 246
+
+2019-04-06T03:46:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 381
+
+2019-04-06T03:48:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 381
+
+2019-04-06T03:49:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\Users\Luis Angel\Desktop\usbwebserver8.1\root\gato\wp-includes\Requests\Transport\fsockopen.php on line 123
+

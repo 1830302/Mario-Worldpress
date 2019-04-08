@@ -1,0 +1,8 @@
+2019-03-22T07:35:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\usbwebserver8.1\root\gato\wp-includes\class-wp-image-editor.php on line 402
+
+2019-03-22T07:50:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\usbwebserver8.1\root\gato\wp-includes\wp-db.php on line 1924
+
+2019-03-22T07:51:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\usbwebserver8.1\root\gato\wp-includes\wp-db.php on line 1924
+
+2019-03-22T14:31:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\usbwebserver8.1\root\gato\wp-includes\wp-db.php on line 1924
+
